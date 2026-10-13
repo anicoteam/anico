@@ -6,6 +6,10 @@
 
 [![ANICO banner: glowing title on a dark anime-style gradient, with watch anime free, SUB and DUB, and free to install](assets/banner.svg)](https://anico-website.pages.dev/)
 
+[![ANICO trailer](assets/anico-trailer.gif)](assets/anico-trailer.mp4)
+
+[▶ Watch the ANICO trailer](assets/anico-trailer.mp4)
+
 [![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t)
 
 [![Typing header cycling through watch anime free, anime streaming app, SUB and DUB, and the weekly schedule](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=28&duration=2800&pause=900&color=FF183D&center=true&vCenter=true&width=760&height=64&lines=Watch+anime+free+on+Android;ANICO+anime+streaming+app;SUB+%26+DUB+%C2%B7+continue+watching;Weekly+anime+schedule)](https://anico-website.pages.dev/)
