@@ -6,6 +6,8 @@
 
 [![ANICO banner: glowing title on a dark anime-style gradient, with watch anime free, SUB and DUB, and free to install](assets/banner.svg)](https://anico-website.pages.dev/)
 
+[![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t)
+
 [![Typing header cycling through watch anime free, anime streaming app, SUB and DUB, and the weekly schedule](https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=28&duration=2800&pause=900&color=FF183D&center=true&vCenter=true&width=760&height=64&lines=Watch+anime+free+on+Android;ANICO+anime+streaming+app;SUB+%26+DUB+%C2%B7+continue+watching;Weekly+anime+schedule)](https://anico-website.pages.dev/)
 
 [![Android](https://img.shields.io/badge/🤖_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://anico-website.pages.dev/)
@@ -18,9 +20,19 @@
 <br>
 
 [![Visit ANICO](https://img.shields.io/badge/▶_Visit_ANICO-ff183d?style=for-the-badge&labelColor=1a0508)](https://anico-website.pages.dev/)
-[![Download (coming soon)](https://img.shields.io/badge/⬇_Download_(coming_soon)-111118?style=for-the-badge&labelColor=1a0508)](https://anico-website.pages.dev/#download)
+[![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t)
 
 <img src="assets/wave.svg" alt="" width="100%">
+
+## Download
+
+Direct download of the ANICO APK (~126 MB). The app is free.
+
+Allow installing from unknown sources, open the APK, and install.
+
+[![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t)
+
+<img src="assets/wave-soft.svg" alt="" width="100%">
 
 ## Anime streaming features
 
@@ -127,7 +139,7 @@ Tribute row on the home feed for **The Big Three**. Catalog availability varies 
 
 | Status | What the site says |
 | --- | --- |
-| ⏳ **Coming soon** | The Android APK. The link is configured from the ANICO Admin app, Website tab. |
+| ✅ **Available** | Direct download of the ANICO APK (~126 MB). [Download APK](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t). The app is free. |
 
 <img src="assets/wave.svg" alt="" width="100%">
 
@@ -171,7 +183,7 @@ My List is in the bottom navigation. You can save favorites and build a queue, a
 <details>
 <summary><strong>How do I install it?</strong></summary>
 
-Use Download for Android on [anico-website.pages.dev](https://anico-website.pages.dev/). The download section currently says **Coming soon** until an APK link is published. When it is published, download the APK, allow installs from unknown sources if prompted, and open the file to install.
+Direct download of the ANICO APK (~126 MB): [Download APK](https://drive.usercontent.google.com/download?id=1h4BgN67wV64evzclYPDP5Iuw-en7J3KR&export=download&confirm=t). The app is free. Allow installing from unknown sources, open the APK, and install.
 
 </details>
 
