@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="860" viewBox="0 0 420 860" role="img" aria-labelledby="phoneTitle phoneDesc">
+  <title id="phoneTitle">ANICO phone mockup</title>
+  <desc id="phoneDesc">Concept of the ANICO home screen: featured hero with Watch Now, continue watching with SUB and DUB, The Big 3 (Naruto, One Piece, Bleach), trending, airing this week, and Home, Browse, Search, Schedule, My List.</desc>
+  <defs>
+    <linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2a34"/>
+      <stop offset="1" stop-color="#0e0e14"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff183d"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="naruto" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fb923c"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+    <linearGradient id="piece" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="bleach" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#64748b"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="phoneGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#ff183d" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect x="18" y="18" width="384" height="824" rx="46" fill="url(#bezel)" filter="url(#phoneGlow)"/>
+  <rect x="34" y="34" width="352" height="792" rx="34" fill="#0c0b12"/>
+  <rect x="150" y="46" width="120" height="22" rx="11" fill="#050507"/>
+  <text x="54" y="96" fill="#ff183d" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ANICO</text>
+  <rect x="54" y="112" width="312" height="168" rx="18" fill="url(#hero)"/>
+  <text x="72" y="140" fill="#fff" fill-opacity="0.85" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">FEATURED HERO</text>
+  <text x="72" y="172" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Watch Now</text>
+  <text x="72" y="194" fill="#fff" fill-opacity="0.8" font-family="Arial, Helvetica, sans-serif" font-size="12">Genres - spotlight</text>
+  <rect x="72" y="214" width="108" height="28" rx="14" fill="#fff"/>
+  <text x="126" y="233" text-anchor="middle" fill="#1a0508" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Watch Now</text>
+  <text x="54" y="312" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Continue watching</text>
+  <rect x="54" y="324" width="148" height="64" rx="12" fill="#1a1a24"/>
+  <rect x="66" y="338" width="90" height="8" rx="4" fill="#fff" fill-opacity="0.85"/>
+  <rect x="66" y="358" width="124" height="6" rx="3" fill="#2a2a36"/>
+  <rect x="66" y="358" width="78" height="6" rx="3" fill="#ff183d"/>
+  <text x="176" y="376" text-anchor="end" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">SUB</text>
+  <rect x="214" y="324" width="152" height="64" rx="12" fill="#1a1a24"/>
+  <rect x="226" y="338" width="90" height="8" rx="4" fill="#fff" fill-opacity="0.85"/>
+  <rect x="226" y="358" width="124" height="6" rx="3" fill="#2a2a36"/>
+  <rect x="226" y="358" width="46" height="6" rx="3" fill="#7c3aed"/>
+  <text x="340" y="376" text-anchor="end" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">DUB</text>
+  <text x="54" y="418" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">The Big 3</text>
+  <rect x="54" y="430" width="96" height="112" rx="12" fill="url(#naruto)"/>
+  <text x="102" y="492" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Naruto</text>
+  <rect x="162" y="430" width="96" height="112" rx="12" fill="url(#piece)"/>
+  <text x="210" y="486" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">One</text>
+  <text x="210" y="502" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Piece</text>
+  <rect x="270" y="430" width="96" height="112" rx="12" fill="url(#bleach)"/>
+  <text x="318" y="492" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">Bleach</text>
+  <text x="54" y="572" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Trending now</text>
+  <rect x="54" y="584" width="70" height="96" rx="10" fill="#ff183d" fill-opacity="0.85"/>
+  <rect x="134" y="584" width="70" height="96" rx="10" fill="#7c3aed" fill-opacity="0.8"/>
+  <rect x="214" y="584" width="70" height="96" rx="10" fill="#f59e0b" fill-opacity="0.8"/>
+  <rect x="294" y="584" width="72" height="96" rx="10" fill="#3b82f6" fill-opacity="0.75"/>
+  <text x="54" y="706" fill="#f4f4f8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Airing this week</text>
+  <rect x="54" y="718" width="312" height="28" rx="8" fill="#1a1a24"/>
+  <text x="70" y="737" fill="#c9c9d4" font-family="Arial, Helvetica, sans-serif" font-size="11">Schedule cards for weekly drops</text>
+  <rect x="54" y="764" width="312" height="44" rx="14" fill="#14141c"/>
+  <g fill="#c9c9d4" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" text-anchor="middle">
+    <text x="84" y="790" fill="#ff183d">Home</text>
+    <text x="140" y="790">Browse</text>
+    <text x="196" y="790">Search</text>
+    <text x="258" y="790">Schedule</text>
+    <text x="324" y="790">My List</text>
+  </g>
+</svg>

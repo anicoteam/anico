@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">ANICO banner</title>
+  <desc id="bannerDesc">Animated dark hero for ANICO, an Android anime streaming app. Glowing title, gradient sky, and the lines watch anime free, SUB and DUB, and free to install.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a0a12"/>
+      <stop offset="0.45" stop-color="#07060c"/>
+      <stop offset="1" stop-color="#14102a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="72%" cy="28%" r="36%">
+      <stop offset="0" stop-color="#ff183d" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#ff183d" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#ff183d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet" cx="18%" cy="80%" r="32%">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cardA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff183d"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#7c2d12"/>
+    </linearGradient>
+    <linearGradient id="cardC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .pulse { animation: pulse 3.4s ease-in-out infinite; }
+      .float { animation: float 7s ease-in-out infinite; }
+      .float-delay { animation: float 8s ease-in-out infinite; animation-delay: -2s; }
+      .lines { animation: slide 16s linear infinite; }
+      @keyframes pulse { 50% { opacity: 0.45; } }
+      @keyframes float { 50% { transform: translateY(-10px); } }
+      @keyframes slide { to { transform: translateX(-80px); } }
+      @media (prefers-reduced-motion: reduce) {
+        .pulse, .float, .float-delay, .lines { animation: none; }
+      }
+    </style>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <rect width="1200" height="630" fill="url(#sun)" class="pulse"/>
+  <rect width="1200" height="630" fill="url(#violet)"/>
+  <g class="lines" fill="none" stroke="#fff" stroke-opacity="0.14" stroke-width="2">
+    <path d="M-40 80 H1280"/>
+    <path d="M-40 140 H1280"/>
+    <path d="M-40 210 H1280"/>
+    <path d="M-20 80 L220 210"/>
+    <path d="M80 80 L320 210"/>
+    <path d="M180 80 L420 210"/>
+    <path d="M980 420 L1180 560"/>
+    <path d="M1040 420 L1240 560"/>
+  </g>
+  <g class="float">
+    <g transform="translate(150 360) rotate(-8)">
+      <rect width="110" height="156" rx="12" fill="url(#cardA)"/>
+      <rect x="14" y="16" width="82" height="8" rx="4" fill="#fff" fill-opacity="0.75"/>
+      <rect x="14" y="118" width="54" height="8" rx="4" fill="#fff" fill-opacity="0.55"/>
+    </g>
+  </g>
+  <g class="float-delay">
+    <g transform="translate(250 392) rotate(6)">
+      <rect width="96" height="136" rx="12" fill="url(#cardB)"/>
+    </g>
+    <g transform="translate(930 150) rotate(8)">
+      <rect width="120" height="168" rx="14" fill="url(#cardC)"/>
+      <rect x="16" y="20" width="88" height="8" rx="4" fill="#fff" fill-opacity="0.7"/>
+    </g>
+  </g>
+  <g fill="#14141c">
+    <rect width="26" height="630"/>
+    <rect x="1174" width="26" height="630"/>
+  </g>
+  <g fill="#2c2c38">
+    <g>
+      <circle cx="13" cy="40" r="5"/><circle cx="13" cy="96" r="5"/><circle cx="13" cy="152" r="5"/>
+      <circle cx="13" cy="208" r="5"/><circle cx="13" cy="264" r="5"/><circle cx="13" cy="320" r="5"/>
+      <circle cx="13" cy="376" r="5"/><circle cx="13" cy="432" r="5"/><circle cx="13" cy="488" r="5"/>
+      <circle cx="13" cy="544" r="5"/><circle cx="13" cy="600" r="5"/>
+    </g>
+    <g>
+      <circle cx="1187" cy="40" r="5"/><circle cx="1187" cy="96" r="5"/><circle cx="1187" cy="152" r="5"/>
+      <circle cx="1187" cy="208" r="5"/><circle cx="1187" cy="264" r="5"/><circle cx="1187" cy="320" r="5"/>
+      <circle cx="1187" cy="376" r="5"/><circle cx="1187" cy="432" r="5"/><circle cx="1187" cy="488" r="5"/>
+      <circle cx="1187" cy="544" r="5"/><circle cx="1187" cy="600" r="5"/>
+    </g>
+  </g>
+  <text x="600" y="214" text-anchor="middle" fill="#ff183d" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="7">ANIME LIVES HERE</text>
+  <g class="pulse" filter="url(#glow)">
+    <text x="600" y="328" text-anchor="middle" fill="#ff183d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="108" letter-spacing="4">ANICO</text>
+  </g>
+  <text x="600" y="328" text-anchor="middle" fill="#ffffff" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="108" letter-spacing="4">ANICO</text>
+  <text x="600" y="378" text-anchor="middle" fill="#fff4f6" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Watch anime free</text>
+  <text x="600" y="414" text-anchor="middle" fill="#c9c9d4" font-family="Arial, Helvetica, sans-serif" font-size="18">Anime streaming app for Android</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#f4f4f8" text-anchor="middle">
+    <rect x="286" y="458" width="168" height="40" rx="20" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="370" y="484">SUB &amp; DUB</text>
+    <rect x="470" y="458" width="140" height="40" rx="20" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="540" y="484">Android</text>
+    <rect x="626" y="458" width="200" height="40" rx="20" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="726" y="484">Free to install</text>
+  </g>
+</svg>

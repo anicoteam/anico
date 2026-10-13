@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="72" viewBox="0 0 1440 72" preserveAspectRatio="none" role="img" aria-label="Soft violet wave divider">
+  <title>Soft violet wave divider</title>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="12s" repeatCount="indefinite"/>
+    <path fill="#ffffff" fill-opacity="0.16" d="M0 26C120 8 240 8 360 26C480 44 600 44 720 26C840 8 960 8 1080 26C1200 44 1320 44 1440 26C1560 8 1680 8 1800 26C1920 44 2040 44 2160 26V72H0Z"/>
+    <path fill="#7c3aed" fill-opacity="0.55" d="M0 40C120 26 240 26 360 40C480 54 600 54 720 40C840 26 960 26 1080 40C1200 54 1320 54 1440 40C1560 26 1680 26 1800 40C1920 54 2040 54 2160 40V72H0Z"/>
+  </g>
+</svg>

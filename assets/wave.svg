@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="80" viewBox="0 0 1440 80" preserveAspectRatio="none" role="img" aria-label="Crimson wave divider">
+  <title>Crimson wave divider</title>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="8s" repeatCount="indefinite"/>
+    <path fill="#ff183d" fill-opacity="0.9" d="M0 34C120 8 240 8 360 34C480 60 600 60 720 34C840 8 960 8 1080 34C1200 60 1320 60 1440 34C1560 8 1680 8 1800 34C1920 60 2040 60 2160 34V80H0Z"/>
+    <path fill="#7c3aed" fill-opacity="0.5" d="M0 48C120 30 240 30 360 48C480 66 600 66 720 48C840 30 960 30 1080 48C1200 66 1320 66 1440 48C1560 30 1680 30 1800 48C1920 66 2040 66 2160 48V80H0Z"/>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anicoteam.github.io/anico/sitemap.xml
